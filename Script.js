@@ -56,4 +56,3 @@ ThirdBtn.addEventListener("click", () => {
     FourthHeading.textContent = "Welcome " + ThirdInput.value + " Guess the number";
 });
 
-// Hah
