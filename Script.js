@@ -55,4 +55,3 @@ ThirdBtn.addEventListener("click", () => {
     FourthUI.style.display = "block";
     FourthHeading.textContent = "Welcome " + ThirdInput.value + " Guess the number";
 });
-
